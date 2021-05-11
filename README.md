@@ -1,5 +1,7 @@
 # descobertaRemedios
  Projeto desenvolvido a partir da Imersão de Dados 3 da Alura.
+ 
+ ![GitHub Logo](https://github.com/Fabiano23/descobertaRemedios/blob/main/Imagens/remedios.jpeg)
 
 ### Problema:
 Pensar em técnicas de Aprendizagem de máquina que podem ajudar na descoberta de novas drogas farmacêuticas baseado no desafio do [Laboratory innovation science at Havard](https://lish.harvard.edu/) disponibilizado no [kaggle](https://www.kaggle.com/c/lish-moa).  a descoberta de novas drogas. 
